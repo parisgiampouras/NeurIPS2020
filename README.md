@@ -3,4 +3,4 @@ Matlab code associated with the paper "A novel variational form of the Schatten-
 
 The folder contains: 
 1) VarSchatten.m : The code of the proposed matrix completion algorithm
-2) Test_VarSchatten.m :  A script with a simulated data matrix completion experiment
+2) test_VarSchatten_noisy_mc.m :  A script with a simulated data matrix completion experiment
